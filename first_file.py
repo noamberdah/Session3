@@ -1,3 +1,2 @@
-print("hello world")
-
-print("this works as well")
+print("Hello World")
+print("Other Line")
